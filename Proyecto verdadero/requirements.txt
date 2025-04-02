@@ -1,0 +1,7 @@
+pip==23.0.1
+yfinance
+streamlit
+pandas
+numpy
+scipy
+matplotlib
